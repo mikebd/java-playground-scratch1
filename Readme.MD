@@ -2,7 +2,9 @@
 
 Java playground of solutions to coding challenges and skunkworks
 
-* Java 15 Spring Boot
+* Java 14
+* Maven
+* Spring Boot
 * Refactoring applied in ways not usual for "single file" solutions
 
 ## Programming Exercises ##
